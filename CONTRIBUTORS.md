@@ -1,4 +1,4 @@
-DoInOtherPanel was originally created by:
+ShowInOtherPanel was originally created by:
 
 * Carlos L. Pérez  (clperez), <me@qwantalabs.com>
 
