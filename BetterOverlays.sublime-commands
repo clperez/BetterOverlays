@@ -1,0 +1,9 @@
+[
+	{ "command": "show_overlay_with_selected_text", "args": {}, "caption": "BetterOverlays: Show file in other pane" },
+	{ "command": "show_overlay_with_selected_text", "args": {"prefix": "#", "show_files" : false }, "caption": "BetterOverlays: Go to selected text" },
+	{ "command": "show_overlay_with_selected_text", "args": {"prefix": "@", "show_files" : false }, "caption": "BetterOverlays: Go to selected symbol" },
+	{ "command": "show_overlay_with_selected_text", "args": {"prefix": ":", "show_files" : false }, "caption": "BetterOverlays: Go to selected line" }
+	{ "command": "show_overlay_with_selected_text", "args": {"overlay" : "command_palette", "show_files" : false }, "caption": "BetterOverlays: Go to selected command" }
+
+	// In the future, maybe panels to find all and display the results at the other panel
+]

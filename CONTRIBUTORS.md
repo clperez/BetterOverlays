@@ -1,4 +1,4 @@
-ShowInOtherPanel was originally created by:
+BetterOverlays was originally created by:
 
 * Carlos L. Pérez  (clperez), <me@qwantalabs.com>
 

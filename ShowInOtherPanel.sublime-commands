@@ -1,5 +1,0 @@
-[
-	{ "command": "show_files_overlay_in_other_pane", "args": {}, "caption": "OverlayInOtherPanel: Show file in other pane" },
-	{ "command": "goto_definition_in_other_pane", "args": {}, "caption": "OverlayInOtherPanel: Go to definition in other pane" },
-	{ "command": "goto_reference_in_other_pane", "args": {}, "caption": "OverlayInOtherPanel: Go to reference in other pane" },
-]

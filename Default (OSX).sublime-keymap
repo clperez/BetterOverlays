@@ -1,5 +1,5 @@
 [
   { "keys": ["alt+p"], "command": "show_files_overlay_in_other_pane"},
-  { "keys": ["alt+f12"], "command": "goto_definition_in_other_pane"},
-  { "keys": ["alt+shift+f12"], "command": "goto_reference_in_other_pane"}
+  // { "keys": ["alt+f12"], "command": "goto_definition_in_other_pane"},
+  // { "keys": ["alt+shift+f12"], "command": "goto_reference_in_other_pane"}
 ]
